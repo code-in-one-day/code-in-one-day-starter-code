@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: MediumVioletRed;
+}
+
+section {
+    background-color: forestgreen;
+}
+
+aside {
+    background-color: RoyalBlue;
+}
+
+footer {
+    background-color: DarkOrange;
+}
